@@ -12,7 +12,7 @@ try {
     require('./dashboard/jquery.validate.min');
     // require('moment');
     // require('./dashboard/moment');
-    
+
     // require('chartist');
 } catch (e) {}
 
